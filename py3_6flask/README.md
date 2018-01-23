@@ -49,7 +49,7 @@ Before Deploy:
            
 Now reload the firewall:
 
-           ```ufw reload```
+``` ufw reload ```
 
 ## Deploying
 
