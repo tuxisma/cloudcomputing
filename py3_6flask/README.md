@@ -1,6 +1,6 @@
 # Python 3.6.4,Flask, Alpine Linux and Redis within Containers
 
-Here a Dockerfile that use a image includind Python and Flask within Alpine and Redis to store data in cache. 
+Here a Dockerfile that use a image including Python and Flask within Alpine and Redis to store data in cache. 
 
 ## Installing Docker
 
@@ -38,6 +38,17 @@ docker-compose version 1.18.0, build 1719ceb
 
 
 ## Deploying
+
+
+Before that:
+
+** CentOS: ``` setenforce 0 ```
+
+** Ubuntu: ```sudo ufw allow 5000 ```
+           
+
+           ``` ufw reload ```
+
 
 ```
 docker-compose up
