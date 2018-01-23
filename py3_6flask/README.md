@@ -39,12 +39,14 @@ docker-compose version 1.18.0, build 1719ceb
 
 ## Deploying
 
+** Note: ** If you have Docker 1.12.6 menor or equal  please modify the version of docker-compose to 2 otherwise type version 3 within docker-compose.yml 
+
 
 Before that:
 
-** CentOS: ``` setenforce 0 ```
+** CentOS: ** ``` setenforce 0 ```
 
-** Ubuntu: ```sudo ufw allow 5000 ```
+** Ubuntu: ** ```sudo ufw allow 5000 ```
            
 
            ``` ufw reload ```
