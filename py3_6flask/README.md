@@ -41,7 +41,7 @@ docker-compose version 1.18.0, build 1719ceb
 **Note:** If you have Docker 1.12.6 menor or equal  please modify the version of docker-compose to 2 otherwise type version 3 within docker-compose.yml 
 
 
-Before that:
+Before Deploy:
 
 **CentOS:**  ``` setenforce 0 ```
 
