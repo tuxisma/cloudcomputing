@@ -1,4 +1,4 @@
-#Python 3.6.4,Flask, Alpine Linux and Redis within Containers
+# Python 3.6.4,Flask, Alpine Linux and Redis within Containers
 
 Here a Dockerfile that use a image includind Python and Flask within Alpine and Redis to store data in cache. 
 
