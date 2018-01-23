@@ -48,7 +48,7 @@ Before Deploy:
 **Ubuntu:** ``` sudo ufw allow 5000 ```
            
 
-           ``` ufw reload ```
+           ```ufw reload```
 
 ## Deploying
 
