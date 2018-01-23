@@ -45,7 +45,7 @@ Before Deploy:
 
 **CentOS:**  ``` setenforce 0 ```
 
-**Ubuntu:** ```sudo ufw allow 5000 ```
+**Ubuntu:** ``` sudo ufw allow 5000 ```
            
 
            ``` ufw reload ```
