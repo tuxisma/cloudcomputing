@@ -47,8 +47,9 @@ Before Deploy:
 
 **Ubuntu:** ``` sudo ufw allow 5000 ```
            
+Now reload the firewall:
 
-           ```ufw reload```
+           ``` ufw reload ```
 
 ## Deploying
 
