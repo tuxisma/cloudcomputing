@@ -1,6 +1,7 @@
 ####
 #.docker
 ###############
+*.swp
 .docker-compose.yml.swp
 
 # Compiled source #
