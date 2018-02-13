@@ -4,3 +4,9 @@
 docker-compose run web django-admin.py startproject mysite . 
 ```
 
+THEN
+
+```
+docker-compose up
+```
+
