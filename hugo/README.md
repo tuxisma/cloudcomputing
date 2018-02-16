@@ -5,4 +5,4 @@ The images is hosted in Dockerhub
 
 ## Building the image 
 
-```docker build -t tuxisma/blog:0.0.1```
+```docker build -t tuxisma/blog:0.0.1 .```
