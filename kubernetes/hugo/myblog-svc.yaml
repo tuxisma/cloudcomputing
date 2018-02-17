@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata: 
+  name: myblog
+  labels:
+    app: hugo
+spec:
+  ports:
+    - port: 1313
+      targetPort: 1313
+  type: NodePort
+  selector:
+    app: hugo

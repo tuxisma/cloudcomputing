@@ -1,0 +1,21 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: myblog
+  labels:
+    app: hugo
+spec:
+  replicas: 3
+  selector: 
+    matchLabels:
+      app: hugo
+  template:
+    metadata:
+      labels:
+        app: hugo
+    spec:
+      containers:
+      - name: hugo
+        image: tuxisma/blog:0.0.2
+        ports:
+        - containerPort: 1313
