@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"aniso8601" = "==1.0.0"
+flask = "==0.10.1"
+flask-restful = "==0.3.3"
+itsdangerous = "==0.24"
+"jinja2" = "==2.7.3"
+markupsafe = "==0.23"
+pytz = "==2015.4"
+six = "==1.9.0"
+sqlalchemy = "==1.0.6"
+werkzeug = "==0.10.4"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

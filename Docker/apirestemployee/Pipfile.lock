@@ -1,0 +1,105 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "3ff1a5ac9f79d1d42b7836d69f5834328f3ccd08b964df789da4e852d36675b3"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "aniso8601": {
+            "hashes": [
+                "sha256:f0bf0108bb24f7c7cb0b0408721a52bee9ac2fd838082c135cd8da87f4d951f4"
+            ],
+            "index": "pypi",
+            "version": "==1.0.0"
+        },
+        "flask": {
+            "hashes": [
+                "sha256:4c83829ff83d408b5e1d4995472265411d2c414112298f2eb4b359d9e4563373"
+            ],
+            "index": "pypi",
+            "version": "==0.10.1"
+        },
+        "flask-restful": {
+            "hashes": [
+                "sha256:30f70682188e6f5bd7915f6188353d35b981b62a880d86b8079c462ee7d9c6b8",
+                "sha256:d183efe7ee03546d88f8d0fd29191fb3ed07f56d3c624c38622d4e60bb12639e"
+            ],
+            "index": "pypi",
+            "version": "==0.3.3"
+        },
+        "itsdangerous": {
+            "hashes": [
+                "sha256:cbb3fcf8d3e33df861709ecaf89d9e6629cff0a217bc2848f1b41cd30d360519"
+            ],
+            "index": "pypi",
+            "version": "==0.24"
+        },
+        "jinja2": {
+            "hashes": [
+                "sha256:2e24ac5d004db5714976a04ac0e80c6df6e47e98c354cb2c0d82f8879d4f8fdb"
+            ],
+            "index": "pypi",
+            "version": "==2.7.3"
+        },
+        "markupsafe": {
+            "hashes": [
+                "sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3"
+            ],
+            "index": "pypi",
+            "version": "==0.23"
+        },
+        "pytz": {
+            "hashes": [
+                "sha256:00f35fb0e7e2fc348cd091d25d36c6768b721463d12396d68a9491a8a5f91ecf",
+                "sha256:39ef0541e489b1cf5515cedf1b1f99de585fd660463cdcde43a03d7d92042782",
+                "sha256:4d64ed1b9e0e73095f5cfa87f0e97ddb4c840049e8efeb7e63b46118ba1d623a",
+                "sha256:6441e798f8863744c90574de253bed328c477fd2c86caf52b8d9d85f1ecb9f96",
+                "sha256:685b1994026572177458af143cc24a2082f400f18e63fdc8e2ed68dd93bb0f49",
+                "sha256:6ce918e48daed649e13aa4eb2ce99d80212411401be42288c94473a81109244e",
+                "sha256:8446013dfbde9b3f4f9bfea09418ddd526760a8798c41badd3f707a98ad0745b",
+                "sha256:9966d2c3f86b23374da9890584f16b03f6e46055824e30a108716974d45d1e45",
+                "sha256:a78b484d5472dd8c688f8b3eee18646a25c66ce45b2c26652850f6af9ce52b17",
+                "sha256:c4ee70cb407f9284517ac368f121cf0796a7134b961e53d9daf1aaae8f44fb90",
+                "sha256:d5ff706089e9150760d238b66203a24d4a0a6175160410191995ff04d1893faa",
+                "sha256:f7c5be4db86f1a76ccc4c807f9008536275abec3e2815d18265d694aeef3cb3c"
+            ],
+            "index": "pypi",
+            "version": "==2015.4"
+        },
+        "six": {
+            "hashes": [
+                "sha256:418a93c397a7edab23e5588dbc067ac74a723edb3d541bd4936f79476e7645da",
+                "sha256:e24052411fc4fbd1f672635537c3fc2330d9481b18c0317695b46259512c91d5"
+            ],
+            "index": "pypi",
+            "version": "==1.9.0"
+        },
+        "sqlalchemy": {
+            "hashes": [
+                "sha256:99a8a54bec4988f704c54ee9f769aa196db43a5ef7ed655b78a80a129c9c65f3"
+            ],
+            "index": "pypi",
+            "version": "==1.0.6"
+        },
+        "werkzeug": {
+            "hashes": [
+                "sha256:9d2771e4c89be127bc4bac056ab7ceaf0e0064c723d6b6e195739c3af4fd5c1d",
+                "sha256:a438aa8c3f513a5cf3dda02a62f9e022b7598e9fbfeba14ba2d6dd957c8ab436"
+            ],
+            "index": "pypi",
+            "version": "==0.10.4"
+        }
+    },
+    "develop": {}
+}
